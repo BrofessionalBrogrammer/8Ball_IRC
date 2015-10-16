@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 # Magic 8 Ball IRC bot
 # Created by Lance Brignoni on 8.9.15
 # This program is free software; you can redistribute it and/or modify
